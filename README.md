@@ -3,9 +3,9 @@
 <br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshjain100&label=Profile%20views&color=0e75b6&style=flat" alt="harshjain100" /> </p>
 
--🌱 I’m currently learning **DSA, Web Dev**
+- 🌱 I’m currently learning **DSA, Web Dev**
 
--📫 How to reach me **harshjain.jain2002@gmail.com**
+- 📫 How to reach me **harshjain.jain2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
